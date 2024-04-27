@@ -1,0 +1,29 @@
+.sub__plans h1 {
+    margin: 10px;
+}
+
+
+.sub__plans {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 25px;
+    border-radius: 15px;
+     width: fit-content;
+}
+
+.sub__container--title {
+    background-color: aqua;
+    color: crimson;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    border-radius: solid 1px;
+
+    
+
+
+}
+.sub__container{
+    flex-wrap: wrap;
+}
